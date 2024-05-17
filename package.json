@@ -1,0 +1,17 @@
+{
+  "name": "@altro-31/passport-publickey",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bun-plugin-dts": "^0.2.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "passport": "^0.7.0",
+    "passport-custom": "^1.1.1"
+  },
+  "version": "1.0.0"
+}
